@@ -1,0 +1,6 @@
+framework module Pods_MGZPersonPrefrenceCategoryKit_Tests {
+  umbrella header "Pods-MGZPersonPrefrenceCategoryKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

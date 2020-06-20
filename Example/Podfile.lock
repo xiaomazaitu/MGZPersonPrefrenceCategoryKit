@@ -1,0 +1,24 @@
+PODS:
+  - CTMediator (25)
+  - MGZPersonPrefrenceCategoryKit (0.1.0):
+    - CTMediator
+
+DEPENDENCIES:
+  - CTMediator
+  - MGZPersonPrefrenceCategoryKit (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CTMediator
+
+EXTERNAL SOURCES:
+  MGZPersonPrefrenceCategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CTMediator: 830c1fc204b3a6abf2a059510c7380f56343da0f
+  MGZPersonPrefrenceCategoryKit: 3a2a6432061e5c3909fe1fce1963c27c00c72cdc
+
+PODFILE CHECKSUM: 01291a09e78a72a3a11f9f58ba5bce7d16747ce1
+
+COCOAPODS: 1.7.5

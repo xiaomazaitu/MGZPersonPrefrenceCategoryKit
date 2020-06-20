@@ -3,6 +3,7 @@ use_frameworks!
 platform :ios, '8.0'
 
 target 'MGZPersonPrefrenceCategoryKit_Example' do
+  pod 'CTMediator'
   pod 'MGZPersonPrefrenceCategoryKit', :path => '../'
 
   target 'MGZPersonPrefrenceCategoryKit_Tests' do
