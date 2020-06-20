@@ -1,4 +1,5 @@
 # MGZPersonPrefrenceCategoryKit
+<<<<<<< HEAD
 
 [![CI Status](https://img.shields.io/travis/xiaomazaitu/MGZPersonPrefrenceCategoryKit.svg?style=flat)](https://travis-ci.org/xiaomazaitu/MGZPersonPrefrenceCategoryKit)
 [![Version](https://img.shields.io/cocoapods/v/MGZPersonPrefrenceCategoryKit.svg?style=flat)](https://cocoapods.org/pods/MGZPersonPrefrenceCategoryKit)
@@ -27,3 +28,6 @@ xiaomazaitu, 18514529291@163.com
 ## License
 
 MGZPersonPrefrenceCategoryKit is available under the MIT license. See the LICENSE file for more info.
+=======
+组件化测试
+>>>>>>> 73c0d099ecb3496616abd99be7b5cb949a15f14f
